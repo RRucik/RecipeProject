@@ -24,7 +24,7 @@ After clicking on add new the following view will be presented to the user:
 
 ![image](https://user-images.githubusercontent.com/49364059/111043765-9c4f0900-8444-11eb-9479-df344f374437.png)
 
-After that user can put desired information about this recipe, add and delete some ingredients (clicking + and - button) and choose some picture (clicking picture button and saving it (clicking tick button):
+Here user can put desired information about this recipe, add and delete some ingredients (clicking + and - button) and choose picture (clicking picture button) and save the recipe (clicking tick button):
 
 ![image](https://user-images.githubusercontent.com/49364059/111043818-010a6380-8445-11eb-8c06-7363e19afb49.png)
 ![image](https://user-images.githubusercontent.com/49364059/111043821-04055400-8445-11eb-99df-9bd223257ce5.png)
