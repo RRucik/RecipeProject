@@ -20,7 +20,7 @@ Select - displays detailed information about selected recipe
 Add new - displays window where user can create new recipe
 
 ### Creating recipes
-After clicking on add new the following window will be presented to the user:
+After clicking on add new the following view will be presented to the user:
 
 ![image](https://user-images.githubusercontent.com/49364059/111043765-9c4f0900-8444-11eb-9479-df344f374437.png)
 
@@ -55,7 +55,7 @@ Clicking tick button will save changes:
 ![image](https://user-images.githubusercontent.com/49364059/111044074-a6720700-8446-11eb-91ad-01965b516d73.png)
 
 From here user can delete permanently chosen recipe by clicking trash bin button.
-After deleting this recipe it can be seen that it is not displayed when searched:
+After deleting this recipe it can be seen that it is no longer displayed when searched:
 
 ![image](https://user-images.githubusercontent.com/49364059/111044102-d8836900-8446-11eb-9326-49efe95dc0d9.png)
 
