@@ -9,7 +9,7 @@ After running the application we will be presented with following window:
 
 ![image](https://user-images.githubusercontent.com/49364059/111043539-62c9ce00-8443-11eb-8917-c1c810f6cbaa.png)
 
-On the top of the user interface you can see navigation bar and a button with "File" text. After clicking on this button we can choose to load or save our recipes.
+On the top of the user interface you can see navigation bar and a button with "File" text. After clicking on this button user can choose to load or save our recipes.
 This window's main purpose is to filter and search recipes that were already saved. 
 User can also choose different actions here:
 Search - searches recipes with given boundaries and displays them on the list
