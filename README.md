@@ -20,7 +20,7 @@ Select - displays detailed information about selected recipe
 Add new - displays window where user can create new recipe
 
 ### Creating recipes
-After clicking on add new user the following window will be presented to the user:
+After clicking on add new the following window will be presented to the user:
 
 ![image](https://user-images.githubusercontent.com/49364059/111043765-9c4f0900-8444-11eb-9479-df344f374437.png)
 
