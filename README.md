@@ -4,7 +4,7 @@ RecipeProject is a desktop app which allows user to add, edit, filter and read d
 
 Each recipe is represented by name, short description, type (breakfast, dinner, etc.), preparation time in minutes, calories, description, instruction and list of ingredients. Each ingredient has its own name, count and unit (tbs, cup, etc.).
 
-## Running the app
+## Example of usage
 After running the application we will be presented with following window:
 
 ![image](https://user-images.githubusercontent.com/49364059/111043539-62c9ce00-8443-11eb-8917-c1c810f6cbaa.png)
@@ -33,7 +33,6 @@ Here user can put desired information about this recipe, add and delete some ing
 ### Filtering recipes
 Now by entering some filter boundaries and clicking search button user can see all recipes that match given parameters:
 
-![image](https://user-images.githubusercontent.com/49364059/111043941-d66cda80-8445-11eb-93c1-9f7e1df3a86e.png)
 ![image](https://user-images.githubusercontent.com/49364059/111043954-f00e2200-8445-11eb-9ca3-ecd0d045aa38.png)
 
 If none boundaries were given, all saved recipes will be displayed:
@@ -55,7 +54,7 @@ Clicking tick button will save changes:
 ![image](https://user-images.githubusercontent.com/49364059/111044074-a6720700-8446-11eb-91ad-01965b516d73.png)
 
 From here user can delete permanently chosen recipe by clicking trash bin button.
-After deleting this recipe it can be seen that it is no longer displayed when searched:
+After deleting it can be seen that this recipe will no longer be displayed when searched:
 
 ![image](https://user-images.githubusercontent.com/49364059/111044102-d8836900-8446-11eb-9326-49efe95dc0d9.png)
 
